@@ -1,4 +1,4 @@
 # first-repo
 First github repo
 
-Manual edit.
+Manual edit. Modified locally.
